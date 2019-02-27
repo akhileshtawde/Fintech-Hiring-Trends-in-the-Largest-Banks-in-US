@@ -1,1 +1,5 @@
 
+According to our analysis, we can see that the greatest number of Fintech Job Category , is the Technology Development sector. This clears the common misconception that Tech Development or Software Development cannot be a key area of Fintech. Our analysis also shows that most of the banks in U.S are hiring in the Fintech sector for about 20% of their overall job openings in and out of the country.
+What Fintech strives is to apply technology to ease the delivery of financial services. As we all know, there can be no data without an application, there could only be analytics if there are applications or software to generate that data. So, this justifies our analysis that Tech Development is also a Key area of Fintech Job. 
+The other key areas of Fintech as we categorized are Data & Analytics, Applied Security, Trading, Investments, Payments, Lending and Insurance. 
+So, as we look through these key areas in our analysis for the top 24 banks, we can say that an individual who is looking for a Tech or Analytics in the Fintech Industry will find the most number opportunities within the country as well as offshore.
